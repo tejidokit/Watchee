@@ -36,6 +36,15 @@
                 </form>
             </div>
 
+            <div class="rightIcons">
+                <a href="upload.php">
+                    <img class="upload" src="assets/images/icons/upload.png" alt="">
+                </a>
+                <a href="###">
+                    <img class="upload" src="assets/images/icons/default.png" alt="">
+                </a>
+            </div>
+
         </div>
 
         <div id="sideNavContainer" style="display:none;">
