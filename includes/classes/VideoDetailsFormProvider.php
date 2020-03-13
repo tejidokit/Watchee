@@ -44,7 +44,6 @@ class VideoDetailsFOrmProvider {
                         <option value='1'>Public</option>       
                     </select>  
                 </div>";
-    }
-
+    } 
 }
 ?>
